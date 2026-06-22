@@ -9,7 +9,6 @@ body{
     background:white;
 }
 
-/* NAVBAR */
 
 .navbar{
     position:fixed;
@@ -80,7 +79,6 @@ body{
     align-items:center;
 }
 
-/* GRID */
 
 .container{
     margin-top:75px;
@@ -91,7 +89,6 @@ body{
     height:calc(100vh - 75px);
 }
 
-/* LEFT SIDEBAR */
 
 .sidebar-left{
     border-right:1px solid #e6e6e6;
@@ -124,7 +121,6 @@ body{
     color:#666;
 }
 
-/* MAIN FEED */
 
 .feed{
     overflow-y:auto;
@@ -184,7 +180,6 @@ body{
     border-radius:4px;
 }
 
-/* RIGHT SIDEBAR */
 
 .sidebar-right{
     border-left:1px solid #e6e6e6;
@@ -225,7 +220,6 @@ body{
     border-radius:30px;
 }
 
-/* RESPONSIVE */
 
 @media(max-width:1200px){
 
